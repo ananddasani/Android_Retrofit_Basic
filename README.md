@@ -1,6 +1,8 @@
 # Android_Retrofit_Basic
 Simple GET request using Retrofit &amp; Fetching Data from API
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Dependency
 ```
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
@@ -118,7 +120,6 @@ public interface JSONPlaceHolder {
 ```
 
 # App Highlight
-
-<img src="app_images/Retrofit Basic Code.png" /><br>
-
-<img src="app_images/Retrofit Basic App1.png" width="300" /> <img src="app_images/Retrofit Basic App2.png" width="300" />
+![Retrofit Basic App2](https://user-images.githubusercontent.com/74413402/192093589-a40cbeb4-c07c-444a-8b16-ff1ecc78f3b8.png)
+![Retrofit Basic Code](https://user-images.githubusercontent.com/74413402/192093590-5052a67c-7533-4df1-a0b2-9871d50036bd.png)
+![Retrofit Basic App1](https://user-images.githubusercontent.com/74413402/192093587-09948e6f-4008-4fb0-88c1-79ff15daec80.png)
